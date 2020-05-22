@@ -2,7 +2,7 @@
 
 This is the extra web exercise template for Hackademy Programming Club.
 
-![demo gif](http://www.giphy.com/gifs/gL9JeRAWitXDEmCrJF)
+![demo gif](https://media.giphy.com/media/hRxMBXH4LQ4yUH0hUN/giphy.gif)
 
 ## Rules of Memory Game (What it should do)
 
